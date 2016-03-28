@@ -1,12 +1,12 @@
 <?php
 
-//set server name
+//database host
 define("db-host","localhost");
-//set username
+//database name
+define("db-name","cms2");
+//database username
 define("db-user","root");
-//set password
-define("db-pass","toor");
-//set database name
-define("db-name","");
+//database password
+define("db-pass","121290");
 
 ?>
